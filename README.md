@@ -1,5 +1,4 @@
-# projeto-lista-de-tarefas
-
+# projeto-vue com navbar e sidebar
 ## Project setup
 ```
 npm install
